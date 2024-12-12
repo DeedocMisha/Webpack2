@@ -1,0 +1,8 @@
+npm init -y
+npm install webpack webpack-cli --save-dev
+
+https://webpack.js.org/guides/getting-started/
+...............
+npm install --save lodash
+.............
+npx webpack
